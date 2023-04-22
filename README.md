@@ -19,7 +19,7 @@
 -  All of my projects are available at [HERE!](https://github.com/dasunthamsh?tab=repositories)  
   
 
-- How to reach me. dasunthamasg166@gmail.com  
+- How to reach me. dimanranawaka@gmail.com  
   
 
 - Fun fact I play games, Travel.  
