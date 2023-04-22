@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Dasun</div>  
+### <div align="center">I'm Diman</div>  
   
   <div align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer...;UI%2FUX+Designer...;Music+Producer..." alt="Typing SVG" /></a>
@@ -22,7 +22,7 @@
 - How to reach me. dasunthamasg166@gmail.com  
   
 
-- Fun fact I play games, Travel, producing music.  
+- Fun fact I play games, Travel.  
   
 
 <br/>  
@@ -74,7 +74,7 @@
 <a href="https://github.com/dasunthamsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/DasunThamash" target="_blank">
+<a href="https://twitter.com/DimanRanawaka" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dasun-thamash-4a9614252" target="_blank">
@@ -83,7 +83,7 @@
 <a href="https://www.facebook.com/100028425432835" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/dasun_thamash" target="_blank">
+<a href="https://instagram.com/dreed_d9" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -115,7 +115,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dasunthamsh&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dimanranawaka&&style=flat-square" align="center" />
 </div>  
   
 
