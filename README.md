@@ -7,7 +7,7 @@
 ### <div align="center">I'm Diman</div>  
   
   <div align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer...;UI%2FUX+Designer...;Music+Producer..." alt="Typing SVG" /></a>
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Sri-Lanka...;Software+Designer...;Developer...;UI%2FUX+Designer...;Blockchain+Developer..." alt="Typing SVG" /></a>
 </div> 
 
 - I’m studying at IJSE.https://www.ijse.lk/  
