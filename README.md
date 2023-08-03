@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16646
-Fork on GitHub
-4699
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Diman Ranawaka</h1>
 <h3 align="center">A passionate blockchain developer from Sri Lanka</h3>
