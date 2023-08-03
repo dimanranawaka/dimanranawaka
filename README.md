@@ -1,4 +1,4 @@
-preview
+
 <h1 align="center">Hi 👋, I'm Diman Ranawaka</h1>
 <h3 align="center">A passionate blockchain developer from Sri Lanka</h3>
 
