@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DimanRanawaka&color=blueviolet&style=flat-square)
 
 <div align="center">
-  <img src="dreed.png" alt="Software Engineering Cycle" width="400" style="border-radius: 50%;"/>
+  <img src="dreed.png" alt="Software Engineering Cycle" width="400" style="border-radius: 50&#37;"/>
 </div>
 
 ## About Me
