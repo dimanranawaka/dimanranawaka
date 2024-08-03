@@ -16,6 +16,16 @@ I am a passionate Undergraduate Software Engineer specializing in Information Te
 
 ---
 
+## 🌟 On top of Sri Lanka's GitHub Committers List
+
+<p align="center">
+  <a href="https://user-badge.committers.top/sri_lanka/DimanRanawaka">
+    <img src="https://user-badge.committers.top/sri_lanka/DimanRanawaka.svg" alt="committers.top badge"/>
+  </a>
+</p>
+
+---
+
 ## 🔧 Skills
 
 ### Programming Languages
@@ -105,7 +115,7 @@ I am a passionate Undergraduate Software Engineer specializing in Information Te
 
 ---
 
-## 🚀 💻
+## 🚀 Profile Animations
 
 <div align="center">
   <img src="R.gif" alt="Software Engineering Cycle" width="500"/>
