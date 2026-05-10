@@ -58,8 +58,8 @@ I am an **AI Automation Engineer** and **Agentic AI Engineer** based in Sri Lank
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimanranawaka&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanranawaka&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dimanranawaka&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimanranawaka&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="190" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimanranawaka&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
