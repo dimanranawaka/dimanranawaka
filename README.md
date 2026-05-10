@@ -1,122 +1,65 @@
-# Hi there, I'm Diman Ranawaka 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=DimanRanawaka&color=blueviolet&style=flat-square)
-
 <div align="center">
-  <img src="dreed.png" alt="Software Engineering Cycle" width="400"/>
-</div>
 
-## About Me
+# Diman Ranawaka
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Passionate%20Undergraduate%20Software%20Engineer-blueviolet?style=for-the-badge"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Agentic+AI+Engineer;Blockchain+Developer;n8n+Specialist;Full-Stack+Engineer" alt="Typing SVG" /></a>
 
-I am a passionate Undergraduate Software Engineer specializing in Information Technology. I am currently pursuing my Bachelor's degree at the University of Colombo School of Computing, alongside a Graduate Diploma in Software Engineering from the Institute of Software Engineering. My interests lie in developing robust software solutions, exploring blockchain technology, and continuously enhancing my programming skills.
+*Architecting intelligent AI systems and autonomous workflows that scale operations and eliminate friction.*
 
----
+<br/>
 
-## 🌟 On top of Sri Lanka's GitHub Committers List
+<a href="https://www.dimanranawaka.com/" target="_blank"><img src="https://img.shields.io/badge/Website-dimanranawaka.com-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/dimanranawaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contact@dimanranawaka.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p align="center">
-  <a href="https://committers.top/sri_lanka.html">
-    <img src="https://user-badge.committers.top/sri_lanka/dimanranawaka.svg" alt="committers.top badge"/>
-  </a>
-</p>
-
----
-
-## 🔧 Skills
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Frameworks and Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/JavaEE-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum"/>
-  <img src="https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle"/>
-  <img src="https://img.shields.io/badge/Hardhat-F2C811?style=for-the-badge&logo=hardhat"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### Tools and Software
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📚 Education
-
-- **Bachelor of Information Technology**: University of Colombo School of Computing
-- **Graduate Diploma In Software Engineering**: Institute of Software Engineering
-
----
-
-## 📫 Contact Information
-
-<p align="center">
-  <a href="mailto:dimanranawaka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dimanranawaka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/diman-ranawaka-0810a61a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0810a61a2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐️ From [Diman Ranawaka](https://github.com/DimanRanawaka)
-
----
-
-## 🖥️ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimanRanawaka&show_icons=true&theme=radical" alt="Diman's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimanRanawaka&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DimanRanawaka&theme=radical" alt="GitHub Trophies"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimanRanawaka&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🚀 Profile Animations
+## ⚡ About Me
+
+I am an **AI Automation Engineer** and **Agentic AI Engineer** based in Sri Lanka. I specialize in engineering robust, autonomous workflows and custom AI solutions. Holding a **BEng in Software Engineering (First Class Honours)** from London Metropolitan University, I bridge the gap between cutting-edge AI capabilities and high-impact business applications. My core focus is on designing reliable AI systems that don't just assist, but autonomously execute complex tasks.
+
+- 🧠 **Focus:** Agentic AI Engineering, Blockchain Development, Advanced n8n Automation, Full-Stack Engineering.
+- 💡 **Philosophy:** Automate the mundane, engineer the exceptional.
+- 🚀 **Currently Building:** High-performance, multi-agent systems and scalable enterprise integrations.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+### **AI & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+### **Automation & Orchestration**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Software Engineering**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="R.gif" alt="Software Engineering Cycle" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dimanranawaka&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanranawaka&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="190" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimanranawaka&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
